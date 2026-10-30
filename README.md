@@ -159,3 +159,9 @@ This project demonstrates practical experience in web application development, R
 **برنامه‌نویس فول‌استک وب**
 
 این پروژه تجربه عملی در زمینه توسعه اپلیکیشن‌های وب، طراحی REST API، اتصال به پایگاه داده، احراز هویت و ارتباط بین فرانت‌اند و بک‌اند را نشان می‌دهد.
+
+📸 Project Screenshots
+
+  Home Page :
+
+![Rahino Home Page](screenshots/home-page.png)
