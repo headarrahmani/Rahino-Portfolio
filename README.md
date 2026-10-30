@@ -164,4 +164,5 @@ This project demonstrates practical experience in web application development, R
 
   Home Page :
 
-![Rahino Home Page](screenshots/home-page.png)
+![Rahino Home Page](Screenshots/home-page.png)
+
