@@ -173,3 +173,7 @@ Register_Page :
 Login_Page : 
 
 ![Rahino Login_Page](Screenshots/Login_Page.png)
+
+Admin-Dashboard  
+
+![Rahino admin-dashboard](Screenshots/admin-dashboard.png)
