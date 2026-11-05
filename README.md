@@ -166,3 +166,6 @@ This project demonstrates practical experience in web application development, R
 
 ![Rahino Home Page](Screenshots/home-page.png)
 
+Register_Page :
+
+![Rahino Register Page](Screenshots/Register-Page.png)
