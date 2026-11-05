@@ -168,4 +168,4 @@ This project demonstrates practical experience in web application development, R
 
 Register_Page :
 
-![Rahino Register Page](Screenshots/Register-Page.png)
+![Rahino Register Page](Screenshots/Register_Page.png)
